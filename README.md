@@ -9,6 +9,9 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+https://developer.android.com/develop/ui/views/components/button
+https://developer.android.com/develop/ui/views/touch-and-input/keyboard-input/style
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
